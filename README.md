@@ -1,4 +1,4 @@
-# python-api-challenge
+# Visualizing Weather Globally Using Python/ APIs
 The objective of this assignment was to create a Python script to visualize weather of over 500 cities globally, based on their distance from the equator.
 
 I created a series of scatter plots to show the following relationships:
